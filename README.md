@@ -17,3 +17,4 @@ Look at your best time and your worst and try beat the top score.
 - I used Js to make a user experience interactive and enjoyable.
 
 # ENJOY
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
