@@ -1,8 +1,8 @@
-# Welcome to Memori
+# Welcome to MemoRi
 
-## Do think You Have a nice memori
+## Do think You Have a nice memoRi
 
-Then try **Memori**, a game made to test your memory with fun and remembering what to saw.
+Then try **MemoRi**, a game made to test your memory with fun and remembering what to saw.
 
 ## Cool Features
 - Timer
